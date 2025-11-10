@@ -1014,7 +1014,8 @@ async def callback_handler(client: app, query: CallbackQuery):
         except:
             pass
 
-print("🤖 Auto Caption Bot with Custom Buttons Started Successfully!")
+print("𝖩𝗎𝗓𝗂 𝖲𝗍𝖺𝗋𝗍𝖾𝖽 !")
 app.run()
+
 
 
