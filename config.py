@@ -14,7 +14,7 @@ HELP_TXT = """<b>⍟───[ 𝖬𝗒 𝖣𝖾𝗍𝖺𝗂𝗅𝗌 ]───�
 <b>➥ 𝖭𝖺𝗆𝖾: <a href="https://t.me/Juzi_Auto_Caption_Bot">Juzi [ 𝖶𝗂𝗇𝖾 🥂 ]</a></b>
 <b>➥ 𝖡𝖾𝗌𝗍 𝖥𝗋𝗂𝖾𝗇𝖽: <a href="tg://settings">𝖳𝗁𝗂𝗌 𝗉𝖾𝗋𝗌𝗈𝗇</a></b>
 <b>➥ 𝖬𝖺𝗂𝗇𝗍𝖺𝗂𝗇𝖾𝗋: <a href="https://t.me/Soloflix_Bots">𝖲𝗈𝗅𝗈𝖥𝗅𝗂𝗑 𝖡𝗈𝗍𝗌</a></b>
-<b>➥ 𝖱𝖾𝗉𝗈: 𝖢𝗈𝗆𝗂𝗇𝗀 𝖲𝗈𝗈𝗇</b>
+<b>➥ 𝖱𝖾𝗉𝗈: <a href="https://github.com/Soloflixbots/Juzi">𝖩𝗎𝗓𝗂</a></b>
 <b>➥ 𝖫𝗂𝖻𝗋𝖺𝗋𝗒: 𝖯𝗒𝗋𝗈𝗀𝗋𝖺𝗆</b>
 <b>➥ 𝖫𝖺𝗇𝗀𝗎𝖺𝗀𝖾: 𝖯𝗒𝗍𝗁𝗈𝗇 3</b>
 <b>➥ 𝖡𝗈𝗍 𝖲𝖾𝗋𝗏𝖾𝗋: 𝖧𝖾𝗋𝗈𝗄𝗎</b>
