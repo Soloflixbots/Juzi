@@ -1016,6 +1016,3 @@ async def callback_handler(client: app, query: CallbackQuery):
 
 print("𝖩𝗎𝗓𝗂 𝖲𝗍𝖺𝗋𝗍𝖾𝖽 !")
 app.run()
-
-
-
